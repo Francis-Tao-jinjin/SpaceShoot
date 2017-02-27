@@ -1,0 +1,33 @@
+canvas{
+	position: absolute;
+	background: transparent;
+	/*top: 0px;
+	left: 0px;
+	*/
+}
+
+#backgroundCanvas{
+	background-color: #112;
+}
+
+#GameWindow{
+	width: 500px;
+    height:666px;
+    margin: auto;
+    border-style: inset;
+    border-color:gray;
+    border-width: 7px;
+}
+
+#h h2 {
+	font-family: fipps;
+	font-size: 4em;
+	text-align: center;
+	box-shadow: 0 10px 0 rgba(0,0,0,0.02);
+	text-shadow: 0 0 2px #fff;
+}
+
+@font-face{
+	font-family: fipps;
+	src: url("msg/fipps-regular-webfont.ttf");
+}

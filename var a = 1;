@@ -1,0 +1,27 @@
+var a = 1;
+var b = 2;
+
+var 
+a =1, 
+b=2
+
+var Binbin = {
+	age: ,
+	sexul: ,
+	height: ,
+	wight: ,
+
+	getWight = function(){
+		this.wight
+	}
+
+	growUp = function(){
+		age ++;
+	}
+
+	setAge = function(age){
+		this.age = age;
+	}
+}
+
+Binbin.getWight();
